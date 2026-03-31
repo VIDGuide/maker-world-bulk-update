@@ -2,6 +2,44 @@
 
 Debug and discovery scripts for working with MakerWorld model data.
 
+## 🆕 discover-bom-items.js
+
+**Intercepts BOM additions and shows you the exact JSON structure needed.**
+
+Perfect for adding custom parts to your BOM configuration!
+
+**Usage:**
+1. Go to any MakerWorld model edit page
+2. Open browser console (F12)
+3. Paste this script and press Enter
+4. Add a BOM item through the UI
+5. The script captures and displays the JSON
+
+**Example output:**
+```
+======================================================================
+✅ CAPTURED BOM DATA!
+======================================================================
+
+Found 1 BOM item(s):
+
+1. 100x1mm (1PCS) - KA007
+   SKU: B-KA007
+   Handle: cob-led-strip-light
+   
+   Full JSON:
+   {
+     "value": "UNI01410",
+     "label": "100x1mm (1PCS) - KA007",
+     "sku": "B-KA007",
+     ...
+   }
+```
+
+See [docs/ADDING_CUSTOM_BOM_ITEMS.md](../docs/ADDING_CUSTOM_BOM_ITEMS.md) for complete guide.
+
+---
+
 ## 🔍 find-bom-indicator.js
 
 Scans all your models to find which ones already have a BOM (Bill of Materials).

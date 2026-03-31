@@ -202,10 +202,19 @@ Estimated time: 3 minutes
 
 Debug and discovery tools in the [`/utils`](utils/) folder:
 
+- **`discover-bom-items.js`** - 🆕 Capture BOM JSON from any part you add
 - **`find-bom-indicator.js`** - Find which models already have BOMs
 - **`check-bom-flags.js`** - Inspect BOM data structure
 
 See [`utils/README.md`](utils/README.md) for details.
+
+### 📚 Documentation
+
+Additional guides in the [`/docs`](docs/) folder:
+
+- **`ADDING_CUSTOM_BOM_ITEMS.md`** - How to find and add any Bambu part
+- **`QUICKSTART.md`** - Quick start guide
+- **`ANALYSIS_SUMMARY.md`** - Technical analysis
 
 ## 📚 Documentation
 
