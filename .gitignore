@@ -1,0 +1,25 @@
+# Results and logs
+batch_update_results.json
+*.log
+
+# Large data files
+makerworld_all_models.json
+makerworld_lightbox_models.json
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node modules (not needed, pure JS)
+node_modules/
