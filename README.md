@@ -198,6 +198,22 @@ Estimated time: 3 minutes
   Publishing...   ✅
 ```
 
+## 🛠️ Utility Scripts
+
+Debug and discovery tools in the [`/utils`](utils/) folder:
+
+- **`find-bom-indicator.js`** - Find which models already have BOMs
+- **`check-bom-flags.js`** - Inspect BOM data structure
+
+See [`utils/README.md`](utils/README.md) for details.
+
+## 📚 Documentation
+
+Additional docs in the [`/docs`](docs/) folder:
+
+- **`QUICKSTART.md`** - Quick start guide
+- **`ANALYSIS_SUMMARY.md`** - Project analysis and technical details
+
 ## 📄 License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
