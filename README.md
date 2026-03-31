@@ -2,6 +2,8 @@
 
 A browser-based tool to batch-add Bill of Materials (BOM) to your MakerWorld 3D printing models.
 
+<a href="https://www.buymeacoffee.com/misaunders" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 ## 🎯 What It Does
 
 Automatically adds a BOM (parts list) to all your MakerWorld lightbox/LED sign models. Perfect for:
@@ -269,6 +271,14 @@ The script is designed to be safe and preserve all existing data, but you should
 - MakerWorld for the API
 - The 3D printing community for inspiration
 - All beta testers who helped refine this tool
+
+## ☕ Support This Tool
+
+If this script saved you time or helped your projects, consider buying me a coffee!
+
+<a href="https://www.buymeacoffee.com/misaunders" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+Your support helps me maintain and improve this tool for the community! ❤️
 
 ---
 
